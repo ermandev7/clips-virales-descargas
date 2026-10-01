@@ -2,6 +2,25 @@
 
 Encuentra los mejores clips para TikTok, YouTube Shorts e Instagram Reels dentro de tus streams largos (de 1 a 8 horas). Todo se procesa en tu computadora, sin pagar APIs: tus videos nunca salen de ella. Solo la primera vez necesita internet, para descargar los modelos de IA (unos 3 GB); después funciona sin conexión.
 
+## Así se ve
+
+**Resultados:** los mejores momentos ordenados por puntaje, con el motivo de cada uno (chat, risas, gritos) y los textos sugeridos por IA.
+
+![Lista de clips encontrados](capturas/4-resultados.png)
+
+**Editor de recorte:** línea de tiempo, lo que se dice frase por frase, vista previa vertical con hook y subtítulos.
+
+![Editor de recorte](capturas/5-editor.png)
+
+<table>
+<tr>
+<td width="50%"><b>Configurar:</b> formato vertical (1, 2 o 4 personas, cámara + juego), encuadre, duración, chat y subtítulos.<br><br><img src="capturas/3-ajustes.png" alt="Configurar los clips"></td>
+<td width="50%"><b>Sistema:</b> la app revisa tu equipo y te dice si puede funcionar antes de empezar.<br><br><img src="capturas/2-sistema.png" alt="Análisis del sistema"></td>
+</tr>
+</table>
+
+Las capturas usan un stream de prueba generado para la demo.
+
 ## Descargar
 
 | Sistema | Descarga | Requisitos |
