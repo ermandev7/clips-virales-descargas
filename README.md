@@ -1,6 +1,6 @@
 # Clips Virales · Descargas
 
-Encuentra los mejores clips para TikTok, YouTube Shorts e Instagram Reels dentro de tus streams largos (de 1 a 8 horas). Funciona 100 % en tu computadora: sin internet y sin pagar APIs.
+Encuentra los mejores clips para TikTok, YouTube Shorts e Instagram Reels dentro de tus streams largos (de 1 a 8 horas). Todo se procesa en tu computadora, sin pagar APIs: tus videos nunca salen de ella. Solo la primera vez necesita internet, para descargar los modelos de IA (unos 3 GB); después funciona sin conexión.
 
 ## Descargar
 
@@ -32,6 +32,10 @@ curl -fsSL https://github.com/ermandev7/clips-virales-descargas/releases/latest/
 
 **Windows puede mostrar "Windows protegió su PC"** porque la app todavía no tiene firma digital. Toca **Más información → Ejecutar de todas formas**.
 
+## Inteligencia artificial
+
+La app usa modelos de IA que corren en tu equipo para elegir los mejores momentos y sugerir títulos, hooks, descripciones y hashtags. Esas sugerencias pueden equivocarse: revísalas antes de publicar. Los videos exportados llevan una nota en sus metadatos que indica qué partes son sugeridas por IA.
+
 ## Licencias de terceros
 
-Clips Virales incluye [FFmpeg](https://ffmpeg.org) (GPL, compilación de [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)), [whisper.cpp](https://github.com/ggml-org/whisper.cpp) y [llama.cpp](https://github.com/ggml-org/llama.cpp) (MIT) y la fuente Poppins (SIL Open Font License). Los modelos se descargan desde Hugging Face con sus propias licencias.
+Clips Virales incluye [FFmpeg](https://ffmpeg.org) (GPL, compilación de [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)), [whisper.cpp](https://github.com/ggml-org/whisper.cpp) y [llama.cpp](https://github.com/ggml-org/llama.cpp) (MIT) y la fuente Poppins (SIL Open Font License). Cada versión publica junto a los instaladores el **código fuente exacto de FFmpeg** que incluye. Los modelos se descargan desde su origen con sus propias licencias. La lista completa está en [TERCEROS.md](TERCEROS.md) y en la pantalla "Acerca de" de la app.
