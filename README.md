@@ -55,6 +55,12 @@ curl -fsSL https://github.com/ermandev7/clips-virales-descargas/releases/latest/
 
 La app usa modelos de IA que corren en tu equipo para elegir los mejores momentos y sugerir títulos, hooks, descripciones y hashtags. Esas sugerencias pueden equivocarse: revísalas antes de publicar. Los videos exportados llevan una nota en sus metadatos que indica qué partes son sugeridas por IA.
 
+## Licencia
+
+Clips Virales es **gratis**, también para uso comercial: puedes usarla y publicar los clips que hagas con ella. No está permitido copiarla, modificarla ni redistribuirla. Ver [LICENSE](LICENSE).
+
+¿Encontraste un problema o un fallo de seguridad? Abre un [issue](https://github.com/ermandev7/clips-virales-descargas/issues).
+
 ## Licencias de terceros
 
 Clips Virales incluye [FFmpeg](https://ffmpeg.org) (GPL, compilación de [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)), [whisper.cpp](https://github.com/ggml-org/whisper.cpp) y [llama.cpp](https://github.com/ggml-org/llama.cpp) (MIT) y la fuente Poppins (SIL Open Font License). Cada versión publica junto a los instaladores el **código fuente exacto de FFmpeg** que incluye. Los modelos se descargan desde su origen con sus propias licencias. La lista completa está en [TERCEROS.md](TERCEROS.md) y en la pantalla "Acerca de" de la app.

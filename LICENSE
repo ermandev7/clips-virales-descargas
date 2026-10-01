@@ -1,0 +1,23 @@
+LICENCIA DE USO GRATUITO DE CLIPS VIRALES
+
+Copyright (c) 2026 ermandev7. Todos los derechos reservados.
+
+1. Licencia. El titular concede a cada persona que obtenga una copia de Clips Virales (el "Programa") desde un canal oficial una licencia gratuita, no exclusiva, intransferible y revocable para instalar y usar el Programa en sus propios equipos, con fines personales o comerciales, incluida la publicación de los clips que cree con él.
+
+2. Restricciones. Salvo en lo que la ley aplicable permita expresamente, no está permitido: (a) copiar, modificar, traducir ni crear obras derivadas del Programa; (b) descompilar, desensamblar ni aplicar ingeniería inversa al Programa; (c) vender, alquilar, sublicenciar ni redistribuir el Programa, ni publicarlo en otros sitios o tiendas; (d) quitar o alterar avisos de derechos de autor o de licencias.
+
+3. Componentes de terceros. El Programa incluye componentes de terceros (como FFmpeg, whisper.cpp y llama.cpp) y descarga modelos de inteligencia artificial que se rigen por sus propias licencias, detalladas en TERCEROS.md y en la carpeta "licenses". Nada en esta licencia limita los derechos que esas licencias le conceden sobre esos componentes.
+
+4. Contenido del usuario. Los videos, clips, textos y demás contenido que el usuario procese o cree con el Programa le pertenecen. El usuario es el único responsable de tener los derechos sobre ese contenido (incluida la música y el material de terceros) y de cumplir las normas de las plataformas donde lo publique.
+
+5. Inteligencia artificial. El Programa usa modelos de inteligencia artificial que se ejecutan en el equipo del usuario para sugerir clips, títulos, hooks, descripciones y subtítulos. Esas sugerencias pueden contener errores y deben revisarse antes de publicarse.
+
+6. Sin garantía. El Programa se entrega "tal cual", sin garantías de ningún tipo, en la medida en que la ley aplicable lo permita. Esta cláusula no limita los derechos que la ley de consumidores del país del usuario le reconozca y que no puedan excluirse por contrato.
+
+7. Limitación de responsabilidad. En la medida máxima que permita la ley aplicable, el titular no responde por daños indirectos, pérdida de datos o lucro cesante derivados del uso del Programa. Esta limitación no se aplica a los casos en que la ley impide limitar la responsabilidad.
+
+8. Terminación. Esta licencia termina automáticamente si se incumplen sus condiciones. Al terminar, debe dejar de usarse el Programa y borrarse.
+
+9. Ley aplicable. Esta licencia se rige por la ley española, sin perjuicio de las normas imperativas de protección del consumidor del país de residencia del usuario.
+
+Contacto: https://github.com/ermandev7/clips-virales-descargas/issues
